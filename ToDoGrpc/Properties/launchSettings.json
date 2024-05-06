@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "ToDoGrpc": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5189;https://localhost:7125",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
