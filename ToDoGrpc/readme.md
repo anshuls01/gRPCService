@@ -4,4 +4,4 @@
 
 # GRPC Tutorial
 
-[Link] (https://www.youtube.com/watch?v=Rqz9XiSqH3E&t=1259s)
+[Link](https://www.youtube.com/watch?v=Rqz9XiSqH3E&t=1259s)
